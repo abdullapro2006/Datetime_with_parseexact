@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTIme with parseexact method", "DateTIme with parseexact method\DateTIme with parseexact method.csproj", "{E35B0937-2E5D-4BF5-8097-E3712C0B304E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35B0937-2E5D-4BF5-8097-E3712C0B304E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35B0937-2E5D-4BF5-8097-E3712C0B304E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35B0937-2E5D-4BF5-8097-E3712C0B304E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35B0937-2E5D-4BF5-8097-E3712C0B304E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D688CA9-15F8-46F5-A7D6-50BCBF2D83FF}
+	EndGlobalSection
+EndGlobal

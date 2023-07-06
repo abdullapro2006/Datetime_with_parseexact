@@ -1,0 +1,15 @@
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\bin\Debug\net6.0\DateTIme with parseexact method.exe
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\bin\Debug\net6.0\DateTIme with parseexact method.deps.json
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\bin\Debug\net6.0\DateTIme with parseexact method.runtimeconfig.json
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\bin\Debug\net6.0\DateTIme with parseexact method.dll
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\bin\Debug\net6.0\DateTIme with parseexact method.pdb
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.csproj.AssemblyReference.cache
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.AssemblyInfoInputs.cache
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.AssemblyInfo.cs
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.dll
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\refint\DateTIme with parseexact method.dll
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.pdb
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\DateTIme with parseexact method.genruntimeconfig.cache
+C:\Users\Abdullah Manafli\source\repos\DateTIme with parseexact method\DateTIme with parseexact method\obj\Debug\net6.0\ref\DateTIme with parseexact method.dll
